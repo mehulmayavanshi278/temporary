@@ -2,7 +2,10 @@
 import { GoogleMap, Marker } from 'vue3-google-map'
 
 const center = { lat: 40.689247, lng: -74.044502 }
-const apiKey = 'AIzaSyDglblqg6uz0TFXU0hHQ6mEVhBJ9FliDOg'
+let apiKey = 'AIzaSyDglblqg6uz0TFXU0hHQ6mEVhBJ9FliDOg'
+// first commit
+apiKey = 'second commit'
+
 </script>
 
 <template>
